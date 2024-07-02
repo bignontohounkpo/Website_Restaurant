@@ -70,7 +70,7 @@
   </div>
   <div class="container py-5">
     <div class="row justify-content-center">
-      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  py-3">
+      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  text-sm-center py-3">
         <div
           class="shadow-lg p-3 d-flex flex-column justify-content-center align-items-center rounded-3"
         >
@@ -87,7 +87,7 @@
           <span class="text-secondary">(86 dishes)</span>
         </div>
       </div>
-      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  py-3">
+      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  text-sm-center py-3">
         <div
           class="shadow-lg p-3 d-flex flex-column justify-content-center align-items-center rounded-3"
         >
@@ -104,7 +104,7 @@
           <span class="text-secondary">(12 break fast)</span>
         </div>
       </div>
-      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  py-3">
+      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  text-sm-center  py-3">
         <div
           class="shadow-lg p-3 d-flex flex-column justify-content-center align-items-center rounded-3"
         >
@@ -122,7 +122,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  py-3">
+      <div class="col-lg-2 m-lg-2  col-md-5 col-sm-6  text-sm-center py-3">
         <div
           class="shadow-lg p-3 d-flex flex-column justify-content-center align-items-center rounded-3"
         >
